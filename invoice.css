@@ -1,0 +1,69 @@
+
+td{
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+}
+table textarea{
+    text-align: center;
+    border-color: white;
+    border-style: none;
+    width: 95%;
+    font-size:20px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+button{
+    float: left;
+    margin-top: 10px;
+    padding: 5px;
+}
+.container{
+    text-align: center;
+    height: 90%;
+    width: 90%;
+    margin: 0 auto;
+}
+.details{
+    border: 2px solid #000;
+    text-align: center;
+    width:100%;
+    table-layout: fixed
+}
+
+
+.address{
+    width: 100%;
+    border: 2px solid ;
+    margin-bottom: 30px;
+    display: inline-block;
+    height: 90%;
+}
+.to {
+    width:40%;
+    display: inline-block;
+    float: right;
+    height: 80%;
+   
+
+}
+textarea{
+    resize: none;
+    margin:0;
+    width: 90%;
+    font-size: 20px;
+    border-style: none
+}
+.from{
+    width:40%;
+    display: inline-block;
+    float:left;
+    height: 80%;
+
+}
+#tot{
+    width: 100px;
+    border: 2px solid ;
+    float: right;
+    font-size: 20px
+}
